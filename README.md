@@ -28,7 +28,7 @@ Scope:
 - Order creation validation
 - Cart updates validation
 ## Key Results 
-- 95 Test Cases created
+- 95 Test Cases created (15 representative cases included in repository)
 - 95 Test Cases executed (93 Passed, 2 Failed)
 - Bugs reported
 - Regression cycle completed
